@@ -1,0 +1,63 @@
+main:
+  - title: Spatial-Temporal Multi-scale Network for Screen Content Video Quality Enhancement
+    authors: <strong>Ziyin Huang</strong>, Sik-Ho Tsang, Xinyuan Qin, Yui-Lam Chan, Xueling Zhou, Feiyu Chen
+    conference: arXiv preprint arXiv:2609.39894, 2026.
+    conference_short: arXiv
+    image: ./assets/img/publications/stm-net.png
+    image_alt: Figure 1 from the STM-Net preprint, showing the network architecture and its building blocks.
+    pdf: https://arxiv.org/pdf/2609.39894
+    code: https://github.com/HUANGZiyin1/STM-Net
+
+  - title: Multi-Branch Aesthetic and Technical Perspectives With Cross Tri-Fusion Attention for No-Reference Audio-Visual Quality Assessment
+    authors: Ngai-Wing Kwong, Yui-Lam Chan*, <strong>Ziyin Huang*</strong>, Sik-Ho Tsang (*Corresponding authors)
+    conference: IEEE Transactions on Circuits and Systems for Video Technology, 2026.
+    conference_short: TCSVT
+    image: ./assets/img/publications/audiovisual-quality.png
+    image_alt: Figure 1 from the paper, showing the overall no-reference audio-visual quality assessment model.
+    doi: https://doi.org/10.1109/TCSVT.2026.3674552
+
+  - title: Long Short-Term Fusion by Multi-Scale Distillation for Screen Content Video Quality Enhancement
+    authors: <strong>Ziyin Huang</strong>, Yui-Lam Chan, Ngai-Wing Kwong, Sik-Ho Tsang, Kin-Man Lam, Wing-Kuen Ling
+    conference: IEEE Transactions on Circuits and Systems for Video Technology, 2025.
+    conference_short: TCSVT
+    image: ./assets/img/publications/lsfmd.png
+    image_alt: Figure 3 from the paper, showing the LSFMD architecture and its feature extraction and reconstruction stages.
+    doi: https://doi.org/10.1109/TCSVT.2025.3544314
+    pdf: https://ira.lib.polyu.edu.hk/bitstream/10397/113740/1/Huang_Long_Short_Term.pdf
+    code: https://github.com/HUANGZiyin1/LSFMD
+
+  - title: Multi-Frame Spatiotemporal Feature and Hierarchical Learning Approach for No-Reference Screen Content Video Quality Assessment
+    authors: Ngai-Wing Kwong, Yui-Lam Chan, Sik-Ho Tsang, <strong>Ziyin Huang</strong>, Kin-Man Lam
+    conference: IEEE Transactions on Multimedia, 2025.
+    conference_short: TMM
+    image: ./assets/img/publications/screen-video-quality.png
+    image_alt: Figure 2 from the paper, showing the overall no-reference screen content video quality assessment framework.
+    doi: https://doi.org/10.1109/TMM.2025.3599071
+    pdf: https://ira.lib.polyu.edu.hk/bitstream/10397/115747/1/Kwong_Multi-Frame_Spatiotemporal_Feature.pdf
+
+  - title: Spatio-temporal feature learning for enhancing video quality based on screen content characteristics
+    authors: <strong>Ziyin Huang</strong>, Yui-Lam Chan, Sik-Ho Tsang, Ngai-Wing Kwong, Kin-Man Lam, Wing-Kuen Ling
+    conference: Journal of Visual Communication and Image Representation, 2024.
+    conference_short: JVCIR
+    image: ./assets/img/publications/east.png
+    image_alt: Figure 4 from the paper, showing the EAST architecture.
+    doi: https://doi.org/10.1016/j.jvcir.2024.104270
+    code: https://github.com/HUANGZiyin1/EAST
+
+  - title: Frame Similarity-Based Screen Content Video Quality Enhancement via Adaptive Long Short-Term Fusion
+    authors: <strong>Ziyin Huang</strong>, Yui-Lam Chan, Ngai-Wing Kwong, Sik-Ho Tsang, Kin-Man Lam, Wing-Kuen Ling
+    conference: IEEE International Conference on Visual Communications and Image Processing <strong>(VCIP)</strong>, 2024.
+    conference_short: VCIP
+    image: ./assets/img/publications/fs-lst.png
+    image_alt: Figure 1 from the paper, showing the FSLST architecture.
+    doi: https://doi.org/10.1109/VCIP63160.2024.10849791
+    code: https://github.com/HUANGZiyin1/FSLST
+
+  - title: Deep Learning Approach for No-Reference Screen Content Video Quality Assessment
+    authors: Ngai-Wing Kwong, Yui-Lam Chan, Sik-Ho Tsang, <strong>Ziyin Huang</strong>, Kin-Man Lam
+    conference: IEEE Transactions on Broadcasting, 2024.
+    conference_short: TBC
+    image: ./assets/img/publications/deep-learning-screen-video-quality.png
+    image_alt: Figure 2 from the paper, showing the deep learning framework for no-reference screen content video quality assessment.
+    doi: https://doi.org/10.1109/TBC.2024.3374042
+    pdf: https://ira.lib.polyu.edu.hk/bitstream/10397/113739/1/Kwong_Deep_Learning_Approach.pdf

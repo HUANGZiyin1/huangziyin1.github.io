@@ -1,0 +1,32 @@
+# Basic Information
+title: Ziyin Huang
+position: Lecturer
+affiliation: Shenzhen Polytechnic University
+affiliation_link: https://english.szpu.edu.cn/
+email: ziyin.huang@connect.polyu.hk
+lang: en-US
+
+# Search Engine Optimization
+keywords: Ziyin Huang, GUI world models, educational agents, screen content video
+description: Ziyin Huang, lecturer at Shenzhen Polytechnic University. Research on GUI world models, educational agents, and screen content video enhancement.
+canonical: https://huangziyin1.github.io/
+
+# Links
+google_scholar: "https://scholar.google.com/citations?user=DZPFoMUAAAAJ&hl=en"
+github_link: https://github.com/HUANGZiyin1
+
+# Images
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Theme options
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
