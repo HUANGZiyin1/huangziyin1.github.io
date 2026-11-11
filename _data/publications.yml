@@ -23,7 +23,6 @@ main:
     image: ./assets/img/publications/lsfmd.png
     image_alt: Figure 3 from the paper, showing the LSFMD architecture and its feature extraction and reconstruction stages.
     doi: https://doi.org/10.1109/TCSVT.2025.3544314
-    pdf: https://ira.lib.polyu.edu.hk/bitstream/10397/113740/1/Huang_Long_Short_Term.pdf
     code: https://github.com/HUANGZiyin1/LSFMD
 
   - title: Multi-Frame Spatiotemporal Feature and Hierarchical Learning Approach for No-Reference Screen Content Video Quality Assessment
@@ -33,7 +32,6 @@ main:
     image: ./assets/img/publications/screen-video-quality.png
     image_alt: Figure 2 from the paper, showing the overall no-reference screen content video quality assessment framework.
     doi: https://doi.org/10.1109/TMM.2025.3599071
-    pdf: https://ira.lib.polyu.edu.hk/bitstream/10397/115747/1/Kwong_Multi-Frame_Spatiotemporal_Feature.pdf
 
   - title: Spatio-temporal feature learning for enhancing video quality based on screen content characteristics
     authors: <strong>Ziyin Huang</strong>, Yui-Lam Chan, Sik-Ho Tsang, Ngai-Wing Kwong, Kin-Man Lam, Wing-Kuen Ling
@@ -60,4 +58,3 @@ main:
     image: ./assets/img/publications/deep-learning-screen-video-quality.png
     image_alt: Figure 2 from the paper, showing the deep learning framework for no-reference screen content video quality assessment.
     doi: https://doi.org/10.1109/TBC.2024.3374042
-    pdf: https://ira.lib.polyu.edu.hk/bitstream/10397/113739/1/Kwong_Deep_Learning_Approach.pdf
